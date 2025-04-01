@@ -31,4 +31,13 @@ I specialize in creating scalable, ethical, and high-impact AI solutions that so
 - **Intent Agent:** Modular library supporting hierarchical multi-level intent classification across various LLM providers.
 - **Prompt Framework:** Python package offering flexible frameworks for sophisticated prompt engineering across diverse task scenarios.
 
+### Pipeline Projects:
+- **Project Management Master:** A GenAI based project management tool.
+- **Evaluation Framework:** A GenAI response evaluation framework.
+- **AutoArchitect:** Just provide your diagram and get the folder structure, placeholders and initial codes.
+- **Scrubbuddy:** A friendly PII scrubber. Easy to use but very powerful!!
+- **Voice based recommender:** A super cool real time voice based recommender system.
+- **FeedbackIntegrater:** A realtime feedback integration for GenAI based applications.
+- **SuperAnalyzer:** A R shiny app, a super easy to use tool for data analysis and run models in R. My first love!!!
+
 
