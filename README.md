@@ -30,6 +30,7 @@ I specialize in creating scalable, ethical, and high-impact AI solutions that so
 - **AI Parliament:** Multi-agent framework for solving complex problems through structured hierarchical reasoning and collective decision-making.
 - **Intent Agent:** Modular library supporting hierarchical multi-level intent classification across various LLM providers.
 - **Prompt Framework:** Python package offering flexible frameworks for sophisticated prompt engineering across diverse task scenarios.
+- **Marketer:** A GenAI based marketing content generator, this tool also allows to make changes to the image generated, overlay texts. Upcoming is video as well. 
 
 ### Pipeline Projects:
 - **Project Management Master:** A GenAI based project management tool.
