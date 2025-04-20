@@ -17,7 +17,7 @@ I specialize in creating scalable, ethical, and high-impact AI solutions that so
 
 ---
 
-### 🚀 Official Projects:
+### 🚀 Recent Official Projects:
 - **AI-Driven Wealth Management Engine:** Enhanced engagement among high-net-worth clients by providing personalized recommendations and insights.
 - **Insurance Chatbot:** A GenAI-powered chatbot that resolved insurance-related queries efficiently, achieving 100% accuracy.
 - **GenAI Video Analytics Tool:** Enables semantic video analysis, transcription, speaker diarization, and intelligent video editing capabilities.
