@@ -32,14 +32,15 @@ I specialize in creating scalable, ethical, and high-impact AI solutions that so
 - **Prompt Framework:** Python package offering flexible frameworks for sophisticated prompt engineering across diverse task scenarios.
 - **Marketer:** A GenAI based marketing content generator, this tool also allows to make changes to the image generated, overlay texts. Upcoming is video as well.
 - **MarketMixPro:** Drawing on an exhaustive checklist of 80+ features—from data ingestion and adstock modeling through governance, active learning, and edge‑case robustness. This project includes a number of experts from the industry. 
+- **SuperAnalyzer:** A R shiny app, a super easy to use tool for data analysis and run models in R. My first love!!!
+- **Project Management Master:** A GenAI based project management tool. 
 
 ### Pipeline Projects:
-- **Project Management Master:** A GenAI based project management tool.
 - **Evaluation Framework:** A GenAI response evaluation framework.
 - **AutoArchitect:** Just provide your diagram and get the folder structure, placeholders and initial codes.
 - **Scrubbuddy:** A friendly PII scrubber. Easy to use but very powerful!!
 - **Voice based recommender:** A super cool real time voice based recommender system.
 - **FeedbackIntegrater:** A realtime feedback integration for GenAI based applications.
-- **SuperAnalyzer:** A R shiny app, a super easy to use tool for data analysis and run models in R. My first love!!!
+
 
 
