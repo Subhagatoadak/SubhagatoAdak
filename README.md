@@ -6,7 +6,7 @@ I specialize in creating scalable, ethical, and high-impact AI solutions that so
 
 ---
 
-- 🔭 I’m currently working on GenAI initiatives, building smart assistants and analytical tools.
+- 🔭 I’m currently working on GenAI initiatives, building smart assistants, analytical tools and Marketing Mix methodologies.
 - 🌱 I’m currently learning advanced GenAI frameworks, NLP, and scalable AI solutions.
 - 👯 I’m looking to collaborate on open-source AI projects, GenAI frameworks, and NLP research.
 - 🤔 I’m looking for help with enhancing the scalability and accuracy of AI-driven analytical tools.
@@ -30,7 +30,8 @@ I specialize in creating scalable, ethical, and high-impact AI solutions that so
 - **AI Parliament:** Multi-agent framework for solving complex problems through structured hierarchical reasoning and collective decision-making.
 - **Intent Agent:** Modular library supporting hierarchical multi-level intent classification across various LLM providers.
 - **Prompt Framework:** Python package offering flexible frameworks for sophisticated prompt engineering across diverse task scenarios.
-- **Marketer:** A GenAI based marketing content generator, this tool also allows to make changes to the image generated, overlay texts. Upcoming is video as well. 
+- **Marketer:** A GenAI based marketing content generator, this tool also allows to make changes to the image generated, overlay texts. Upcoming is video as well.
+- **MarketMixPro:** Drawing on an exhaustive checklist of 80+ features—from data ingestion and adstock modeling through governance, active learning, and edge‑case robustness. This project includes a number of experts from the industry. 
 
 ### Pipeline Projects:
 - **Project Management Master:** A GenAI based project management tool.
