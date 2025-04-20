@@ -1,4 +1,4 @@
-## Hi there 👋
+[SubhagatoAdakResume.pdf](https://github.com/user-attachments/files/19826086/SubhagatoAdakResume.pdf)## Hi there 👋
 
 I'm Subhagato Adak, a passionate Data Scientist and Product Manager with extensive experience in leveraging statistical modeling, advanced NLP techniques, and generative AI (GenAI) to develop innovative products. My work focuses on bridging the gap between complex technical concepts and actionable business insights, driving strategic decisions that enhance productivity and operational efficiency. With a strong background in leading cross-functional teams and managing end-to-end AI product lifecycles, I am dedicated to pushing the boundaries of AI applications and technology adoption across diverse industries.
 
@@ -12,7 +12,9 @@ I specialize in creating scalable, ethical, and high-impact AI solutions that so
 - 🤔 I’m looking for help with enhancing the scalability and accuracy of AI-driven analytical tools.
 - 💬 Ask me about Machine Learning, Deep Learning, NLP, GenAI, or Product Management.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/subhagatoadak) or [Email](mailto:subhagatoadak.india@gmail.com).
+- Checkout my resume: [Resume](https://github.com/user-attachments/files/19826088/SubhagatoAdakResume.pdf)
 - 😄 Pronouns: He/Him
+
 - ⚡ Fun fact: I love playing Tabla and enjoy painting during my free time.
 
 ---
