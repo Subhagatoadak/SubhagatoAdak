@@ -14,8 +14,8 @@ I specialize in creating scalable, ethical, and high-impact AI solutions that so
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/subhagatoadak) or [Email](mailto:subhagatoadak.india@gmail.com).
 - Checkout my resume: [Resume](https://github.com/user-attachments/files/19826088/SubhagatoAdakResume.pdf)
 - 😄 Pronouns: He/Him
-
 - ⚡ Fun fact: I love playing Tabla and enjoy painting during my free time.
+- MarketingMix Pro GPT - https://chatgpt.com/g/g-6804fe2bd3cc8191910f23595b168b9b-marketingmix-pro
 
 ---
 
