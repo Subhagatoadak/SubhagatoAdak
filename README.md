@@ -31,7 +31,7 @@ I specialize in creating scalable, ethical, and high-impact AI solutions that so
 - **Automatic Test Case Generator:** AI-driven tool generating automated pytest unit tests from Python source files using GPT-4.
 - **AI Parliament:** Multi-agent framework for solving complex problems through structured hierarchical reasoning and collective decision-making.
 - **Intent Agent:** Modular library supporting hierarchical multi-level intent classification across various LLM providers.
-- **Prompt Framework:** Python package offering flexible frameworks for sophisticated prompt engineering across diverse task scenarios.
+- **Prompt Framework:** Python package offering flexible frameworks for sophisticated prompt engineering across diverse task scenarios. Package: https://pypi.org/project/Prompt-Framework/
 - **Marketer:** A GenAI based marketing content generator, this tool also allows to make changes to the image generated, overlay texts. Upcoming is video as well.
 - **MarketMixPro:** (Private Repo) Drawing on an exhaustive checklist of 80+ features—from data ingestion and adstock modeling through governance, active learning, and edge‑case robustness. This project includes a number of experts from the industry. 
 - **SuperAnalyzer:** (Private Repo) A R shiny app, a super easy to use tool for data analysis and run models in R. My first love!!!
