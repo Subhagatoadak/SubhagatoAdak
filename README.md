@@ -32,9 +32,9 @@ I specialize in creating scalable, ethical, and high-impact AI solutions that so
 - **AI Parliament:** Multi-agent framework for solving complex problems through structured hierarchical reasoning and collective decision-making.
 - **Intent Agent:** Modular library supporting hierarchical multi-level intent classification across various LLM providers.
 - **Prompt Framework:** Python package offering flexible frameworks for sophisticated prompt engineering across diverse task scenarios. Package: https://pypi.org/project/Prompt-Framework/
-- **Marketer:** A GenAI based marketing content generator, this tool also allows to make changes to the image generated, overlay texts. Upcoming is video as well.
+- **Marketer:** A GenAI based marketing content generator, this tool also allows to make changes to the image generated, overlay texts. Upcoming is video as well. **Checkout my packages**
 - **MarketMixPro:** (Private Repo) Drawing on an exhaustive checklist of 80+ features—from data ingestion and adstock modeling through governance, active learning, and edge‑case robustness. This project includes a number of experts from the industry. 
-- **SuperAnalyzer:** (Private Repo) A R shiny app, a super easy to use tool for data analysis and run models in R. My first love!!! Package:docker pull ghcr.io/subhagatoadak/superanalyzer:sha256-243a77d1f50a8c3c745314aea8283fa8a80561df38ccdafecc07b2c47c9ae9f8.sig
+- **SuperAnalyzer:** (Private Repo) A R shiny app, a super easy to use tool for data analysis and run models in R. My first love!!! **Checkout my packages**
 - **Project Management Master:** (Private Repo) A GenAI based project management tool. 
 
 ### Pipeline Projects:
