@@ -35,7 +35,8 @@ I specialize in creating scalable, ethical, and high-impact AI solutions that so
 - **Marketer:** A GenAI based marketing content generator, this tool also allows to make changes to the image generated, overlay texts. Upcoming is video as well. (**Checkout my packages**)
 - **MarketMixPro:** (Private Repo) Drawing on an exhaustive checklist of 80+ features—from data ingestion and adstock modeling through governance, active learning, and edge‑case robustness. This project includes a number of experts from the industry. 
 - **SuperAnalyzer:** (Private Repo) A R shiny app, a super easy to use tool for data analysis and run models in R. My first love!!! (**Checkout my packages**)
-- **Project Management Master:** (Private Repo) A GenAI based project management tool. 
+- **Project Management Master:** (Private Repo) A GenAI based project management tool.
+- **SmartTravelAPP:** Get all the safety, visa and travekl tips for a destination using GenAI. https://smarttravelai.streamlit.app/
 
 ### Pipeline Projects:
 - **Evaluation Framework:** (Private Repo) A GenAI response evaluation framework.
