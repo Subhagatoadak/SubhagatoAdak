@@ -37,6 +37,7 @@ I specialize in creating scalable, ethical, and high-impact AI solutions that so
 - **SuperAnalyzer:** (Private Repo) A R shiny app, a super easy to use tool for data analysis and run models in R. My first love!!! (**Checkout my packages**)
 - **Project Management Master:** (Private Repo) A GenAI based project management tool.
 - **SmartTravelAPP:** Get all the safety, visa and travel tips for a destination using GenAI. https://smarttravelai.streamlit.app/
+- **Checkeasy LLMChecker:** Coming to a classroom near you: instant AI-cheater-spotting! https://checkeasy.streamlit.app
 
 ### Pipeline Projects:
 - **Evaluation Framework:** (Private Repo) A GenAI response evaluation framework.
