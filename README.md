@@ -39,6 +39,7 @@ I specialize in creating scalable, ethical, and high-impact AI solutions that so
 - **SmartTravelAPP:** Get all the safety, visa and travel tips for a destination using GenAI. https://smarttravelai.streamlit.app/
 - **Checkeasy LLMChecker:** Coming to a classroom near you: instant AI-cheater-spotting! https://checkeasy.streamlit.app
 - **AutoArchitect:** (Private Repo) Just provide your diagram and get the folder structure, placeholders and initial codes.
+- **Memory Weaver:** This is your personal lore archivist—an AI-powered Streamlit app that transforms your journals, tweets, and conversations into a rich, evolving mythos.
 
 ### Pipeline Projects:
 - **Evaluation Framework:** (Private Repo) A GenAI response evaluation framework.
