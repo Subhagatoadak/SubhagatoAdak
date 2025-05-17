@@ -25,7 +25,7 @@ I specialize in creating scalable, ethical, and high-impact AI solutions that so
 - **GenAI Video Analytics Tool:** Enables semantic video analysis, transcription, speaker diarization, and intelligent video editing capabilities.
 - **Speech-to-Speech Shopping Assistant:** Improved conversion rates using voice-enabled personalized product recommendations.
 - **Marketing Chatbot:** Get insights from multiple datasets and documents regarding marketing.
-- **Sales chatbot:** A chatbot for a car manufacturer which talks to different people with different personas. 
+- **Sales Chatbot:** A chatbot for a car manufacturer which talks to different people with different personas. 
 
 ### 🛠 Personal Projects:
 - **Retrieve:** A context-aware Cellular Automata retrieval system for dynamically extracting and modeling document interactions.
