@@ -24,6 +24,8 @@ I specialize in creating scalable, ethical, and high-impact AI solutions that so
 - **Insurance Chatbot:** A GenAI-powered chatbot that resolved insurance-related queries efficiently, achieving 100% accuracy.
 - **GenAI Video Analytics Tool:** Enables semantic video analysis, transcription, speaker diarization, and intelligent video editing capabilities.
 - **Speech-to-Speech Shopping Assistant:** Improved conversion rates using voice-enabled personalized product recommendations.
+- **Marketing Chatbot:** Get insights from multiple datasets and documents regarding marketing.
+- **Sales chatbot:** A chatbot for a car manufacturer which talks to different people with different personas. 
 
 ### 🛠 Personal Projects:
 - **Retrieve:** A context-aware Cellular Automata retrieval system for dynamically extracting and modeling document interactions.
@@ -42,6 +44,8 @@ I specialize in creating scalable, ethical, and high-impact AI solutions that so
 - **Memory Weaver:** This is your personal lore archivist—an AI-powered Streamlit app that transforms your journals, tweets, and conversations into a rich, evolving mythos.
 
 ### Pipeline Projects:
+- **Conversation Segmentation:** An app that segments based on the conversations and provides lead probabilities.
+- **Social Media listening:** An app app that analyses the social media data.  
 - **Evaluation Framework:** (Private Repo) A GenAI response evaluation framework.
 - **Scrubbuddy:** (Private Repo) A friendly PII scrubber. Easy to use but very powerful!!
 - **Voice based recommender:** (Private Repo) A super cool real time voice based recommender system.
