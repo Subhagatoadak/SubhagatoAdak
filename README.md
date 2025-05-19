@@ -5,7 +5,7 @@ I'm Subhagato Adak, a passionate Data Scientist and Product Manager with extensi
 I specialize in creating scalable, ethical, and high-impact AI solutions that solve real-world problems. Whether it involves building smart assistants, designing interactive analytical tools, or developing frameworks for efficient NLP and machine learning processes, I am committed to continuous learning and improvement.
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/96ebca9f-1e8e-4087-943e-d4a4d507fef7">
+  <img src="https://github.com/user-attachments/assets/d5415758-6075-4a44-808d-7d325ac10084">
 </div>
 
 
