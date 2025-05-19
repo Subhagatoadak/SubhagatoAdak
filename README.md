@@ -4,9 +4,9 @@ I'm Subhagato Adak, a passionate Data Scientist and Product Manager with extensi
 
 I specialize in creating scalable, ethical, and high-impact AI solutions that solve real-world problems. Whether it involves building smart assistants, designing interactive analytical tools, or developing frameworks for efficient NLP and machine learning processes, I am committed to continuous learning and improvement.
 
-
-![20250519_1350_Energetic Coder Vibes_simple_compose_01jvkt30mbfm7td7ram42t1q8n (2)](https://github.com/user-attachments/assets/96ebca9f-1e8e-4087-943e-d4a4d507fef7)
-
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/96ebca9f-1e8e-4087-943e-d4a4d507fef7">
+</div>
 
 
 ---
