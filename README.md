@@ -21,6 +21,7 @@ I specialize in creating scalable, ethical, and high-impact AI solutions that so
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love playing Tabla and enjoy painting during my free time.
 - MarketingMix Pro GPT - https://chatgpt.com/g/g-6804fe2bd3cc8191910f23595b168b9b-marketingmix-pro
+- Teach me Statistics GPT - https://chatgpt.com/g/g-687de0619b008191add6dfb22a2c3aa8-teach-me-statistics
 
 ---
 
