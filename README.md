@@ -9,7 +9,7 @@ I specialize in creating scalable, ethical, and high-impact AI solutions that so
   </video>
 </div>
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/63c5ab54-d7f4-403b-b4b9-884ca4f480fb" width="320" alt="Agentic AI Animation" />
+  <img src="https://github.com/user-attachments/assets/63c5ab54-d7f4-403b-b4b9-884ca4f480fb" width="640" alt="Agentic AI Animation" />
 </div>
 
 ---
